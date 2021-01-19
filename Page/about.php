@@ -1,5 +1,5 @@
 <?php
-  $author = 'Dong Hai Dang';
+  $author = 'Phi PHi';
 ?>
 
 <!DOCTYPE html>
